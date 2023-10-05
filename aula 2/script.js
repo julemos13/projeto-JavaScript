@@ -1,7 +1,7 @@
 // tipos primitivos
 
 // boolean
-/* var vOUf = false;
+ var vOUf = false;
 console.log(vOuF);
 
 // number 
@@ -37,4 +37,31 @@ function escopoLocal() {
     consile.log(escopoLocalInterno);
 }
 
-escopolocal();
+escopolocal(); 
+
+// atribuição
+var atribuicao ='juliana';
+
+// comparaçao
+var comparacao = '0' == 0;
+console.log(comparacao);
+
+// comparaao identica
+var comparacaoIdentica = '0' === 0;
+console.log(comparacaoIdentica);
+
+//adição
+var adicao = 1 + 1;
+console.log(adicao)
+
+//subtração 
+var subtracao = 2 - 1;
+console.log(subtracao)
+
+multiplicação 
+var multiplicação = 2 * 3;
+console.log(multiplicação);
+
+// var divisao Real
+var divisaoReal = 6 / 2;
+console.log(divisaoReal) 
